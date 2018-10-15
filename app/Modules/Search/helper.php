@@ -1,0 +1,5 @@
+<?php
+
+/**
+ *	Search Helper  
+ */
